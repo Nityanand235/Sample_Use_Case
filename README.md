@@ -1,0 +1,1 @@
+This repository contains a Python script for training and using a neural machine translation model based on the Transformer architecture. The model is trained to translate text from a source language to a target language using the Helsinki-NLP MarianMT model.
